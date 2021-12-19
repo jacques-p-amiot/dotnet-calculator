@@ -1,5 +1,5 @@
 [![Build Status](https://dev.azure.com/{jacquesphilippeamiot0056}/{helpers}/_apis/build/status/{
-jacques-p-amiot.dotnet-calculator}?branchName=master)](https://dev.azure.com/{jacquesphilippeamiot0056}/{helpers}/_build/latest?definitionId={2})
+jacques-p-amiot.dotnet-calculator}?branchName=master)](https://dev.azure.com/{jacquesphilippeamiot0056}/{helpers}/_build/latest?definitionId={2})]
 
 # What I'm hoping to achieve with this repo
 A dotnet application hooked up to a full CICD pipeline.
