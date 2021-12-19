@@ -1,8 +1,8 @@
 using System;
 using Xunit;
-using PrimeService;
+using CalculatorLib;
 
-namespace PrimeService.Tests
+namespace CalculatorLib.Tests
 {
     public class CalculatorTest
     {

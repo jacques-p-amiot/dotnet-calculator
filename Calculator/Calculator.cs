@@ -1,9 +1,12 @@
 ﻿using System;
 
-namespace PrimeService
+namespace CalculatorLib
 {
 
 
+    /// <summary>
+    /// A calculator library
+    /// </summary>
     public class Calculator
     {
         /// <summary>
